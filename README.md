@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Andrés+Torres.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Michael+Quispe.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Pixel Art" align="right" width="300">
 
@@ -16,7 +16,7 @@
 ### GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andrest04&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MQRF123&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
     <img width=356px src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrest04&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8" />
 </div>
 
@@ -24,5 +24,5 @@
 ### Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/andres-torres-garcia/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/michael-quispe-842413275"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
