@@ -17,7 +17,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MQRF123&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img width=356px src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrest04&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8" />
+    <img width=356px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQRF123&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8" />
 </div>
 
     
