@@ -13,11 +13,11 @@
   <img alt="Vue" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 </div><br>
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-us1-git-2ea906-michafred2004-8861s-projects.vercel.app/api?username=MQRF123&count_private=true&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats-us1-git-2ea906-michafred2004-8861s-projects.vercel.app/api/top-langs/?username=MQRF123&layout=compact&theme=dark&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MQRF123&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img width=356px src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQRF123&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8" />
 </div>
 
 
